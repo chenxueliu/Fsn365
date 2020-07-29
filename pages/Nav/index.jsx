@@ -34,7 +34,7 @@ const index = () => {
             <Link href="/staking">
               <a>Staking</a>
             </Link>
-            <Link href="/assets">
+            <Link href="/asset">
               <a>Assets</a>
             </Link>
           </div>
